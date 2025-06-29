@@ -1,2 +1,3 @@
 # My-profile
-This is my about my protfolio
+This is about my portfolio.
+Author - Nitish Kumar
